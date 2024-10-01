@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "2dc27be2ee5aaec7",
+            "id": "3d541b07848c25e0",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -138,9 +138,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0e8fbc47dd063c4b",
+  "active": "3d541b07848c25e0",
   "lastOpenFiles": [
+    "asdf.md",
     "Welcome.md",
+    "Untitled.md",
+    "asdf.md~",
     "vault01/Welcome.md",
     "vault01"
   ]
