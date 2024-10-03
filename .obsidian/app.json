@@ -1,1 +1,8 @@
-{}
+{
+  "vimMode": true,
+  "promptDelete": false,
+  "showInlineTitle": false,
+  "attachmentFolderPath": "/",
+  "newFileLocation": "folder",
+  "newFileFolderPath": "Fleeting Notes"
+}

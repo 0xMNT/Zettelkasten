@@ -1,4 +1,7 @@
 {
   "cssTheme": "Proper Dark",
-  "accentColor": "#7dbab6"
+  "accentColor": "#d28860",
+  "baseFontSize": 20,
+  "baseFontSizeAction": true,
+  "showViewHeader": true
 }
