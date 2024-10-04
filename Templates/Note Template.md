@@ -1,6 +1,6 @@
 {{date:YYYYMMDDHHmmss}}
 
-tags: 
+tags: #it #devops
 links: 
 
 # {{title}}
