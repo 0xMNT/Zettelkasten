@@ -24,7 +24,7 @@ The Control Plane manages the Kubernetes cluster and runs on one or more Master 
 
 # Worker Nodes
 
-[[Pods]] are the smallest deployable units in Kubernetes. Each pod can contain one or more containers that share the same network namespace and storage.
+[[Pod|Pods]] are the smallest deployable units in Kubernetes. Each pod can contain one or more containers that share the same network namespace and storage.
 
 ---
 # Resources
