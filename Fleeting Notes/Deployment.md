@@ -33,7 +33,10 @@ spec:
         - containerPort: 80
 ```
 
-1. apply deployment: `kubectl apply -f deployment.yml`
-2. check status: ```kubectl rollout status deployment nginx-deployment``` 
+## Apply Deployment:  
+`kubectl apply -f deployment.yml`
+## Check Status: 
+`kubectl rollout status deployment nginx-deployment`
+
 ---
 # Resources
