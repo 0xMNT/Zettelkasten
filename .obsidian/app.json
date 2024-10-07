@@ -4,5 +4,6 @@
   "showInlineTitle": false,
   "attachmentFolderPath": "/",
   "newFileLocation": "folder",
-  "newFileFolderPath": "Fleeting Notes"
+  "newFileFolderPath": "Fleeting Notes",
+  "alwaysUpdateLinks": true
 }
